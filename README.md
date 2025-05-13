@@ -2,7 +2,6 @@
 
 This project analyzes healthcare insurance premium variations across the U.S. based on metal levels, plan types (HMO/PPO), and geographic factors using predictive models. It highlights disparities and uses machine learning to predict premiums, providing insights for consumers, insurers, and policymakers.
 
----
 
 ## 🔍 Problem Statement
 Healthcare insurance plans in the U.S. vary widely by region, plan type, and coverage tier, making it difficult for consumers to choose affordable options. This project identifies cost-driving features and predicts healthcare premiums to improve transparency and guide decision-making.
