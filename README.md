@@ -6,7 +6,6 @@ This project analyzes healthcare insurance premium variations across the U.S. ba
 ## 🔍 Problem Statement
 Healthcare insurance plans in the U.S. vary widely by region, plan type, and coverage tier, making it difficult for consumers to choose affordable options. This project identifies cost-driving features and predicts healthcare premiums to improve transparency and guide decision-making.
 
----
 
 ## 🛠 Tools Used
 - **Python** (pandas, NumPy, matplotlib, seaborn, scikit-learn)
@@ -14,7 +13,6 @@ Healthcare insurance plans in the U.S. vary widely by region, plan type, and cov
 - **Statistical Tests**: ANOVA, Correlation Matrix
 - **Data Source**: [healthcare.gov](https://data.healthcare.gov)
 
----
 
 ## ⚙️ Key Features / Methods
 - **Exploratory Data Analysis (EDA)**: Distributions by metal level, state, and plan type
@@ -26,7 +24,6 @@ Healthcare insurance plans in the U.S. vary widely by region, plan type, and cov
   - KNN (R² = 0.73)
 - **Statistical Validation**: ANOVA for regional significance
 
----
 
 ## 📈 Outcome / Impact
 - Platinum & PPO plans are highest in cost; Bronze & HMO are more affordable.
